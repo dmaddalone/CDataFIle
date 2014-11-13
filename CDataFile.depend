@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1413249852 source:/home/maddalone/CCPP/CDataFile/include/CDataFile.h
+	<vector>
+	<fstream>
+	<string>
+
+1413255054 source:/home/maddalone/CCPP/CDataFile/src/DataFileTest.cpp
+	<cstdio>
+	<cfloat>
+	<climits>
+	"CDataFile.h"
+
+1413249852 /home/maddalone/CCPP/CDataFile/include/CDataFile.h
+	<vector>
+	<fstream>
+	<string>
+
+1413251617 source:/home/maddalone/CCPP/CDataFile/src/CDataFile.cpp
+	<vector>
+	<string>
+	<ctype.h>
+	<cctype>
+	<cstdio>
+	<cstdarg>
+	<fstream>
+	<cfloat>
+	<cstring>
+	<ios>
+	<iostream>
+	<climits>
+	<windows.h>
+	"CDataFile.h"
+
