@@ -248,6 +248,9 @@ public:
 	int			KeyCount();
 				// Clear: Initializes the member variables to their default states
 	void		Clear();
+                // Maddalone:
+                // ClearDirty: clear m_bDirty flag - so we don't try to save the file
+    void        ClearDirty();
 				// SetFileName: For use when creating the object by hand
 				// initializes the file name so that it can be later saved.
 	void		SetFileName(std::string szFileName);

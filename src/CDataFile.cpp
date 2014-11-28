@@ -104,6 +104,15 @@ void CDataFile::Clear()
 	m_Sections.clear();
 }
 
+// Maddalone
+// ClearDirty
+// Clear the m_bDirty flag so we do not try to save the file
+void CDataFile::ClearDirty()
+{
+	m_bDirty = false;
+}
+
+
 // SetFileName
 // Set's the m_szFileName member variable. For use when creating the CDataFile
 // object by hand (-vs- loading it from a file
