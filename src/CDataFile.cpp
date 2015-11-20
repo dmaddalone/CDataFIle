@@ -53,6 +53,9 @@
 #include <iostream>
 #include <climits>
 
+// Maddalone
+#include <cstdlib>
+
 #ifdef WIN32
 #include <windows.h>
 #endif

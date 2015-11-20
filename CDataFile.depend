@@ -31,3 +31,15 @@
 	<windows.h>
 	"CDataFile.h"
 
+1447954174 source:c:\users\dmaddalone\ccpp\cdatafile\src\datafiletest.cpp
+	<cstdio>
+	<cfloat>
+	<climits>
+	"CDataFile.h"
+
+1447954174 c:\users\dmaddalone\ccpp\cdatafile\include\cdatafile.h
+	<vector>
+	<fstream>
+	<string>
+	<locale>
+
